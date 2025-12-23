@@ -1,4 +1,4 @@
-# PRISM -- Portfolio Research and Insight Simulation Model
+# PRISM - Portfolio Research and Insight Simulation Model
 
 Work in progress.
 
